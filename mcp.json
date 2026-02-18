@@ -2,7 +2,7 @@
   "mcpServers": {
     "makeslates": {
       "command": "npx",
-      "args": ["-y", "@makeslates/mcp-server"],
+      "args": ["-y", "makeslates-mcp-server"],
       "env": {
         "MAKESLATES_API_KEY": "${MAKESLATES_API_KEY}"
       }

@@ -23,7 +23,7 @@ Add to your Cursor MCP settings (`~/.cursor/mcp.json`):
   "mcpServers": {
     "makeslates": {
       "command": "npx",
-      "args": ["-y", "@makeslates/mcp-server"],
+      "args": ["-y", "makeslates-mcp-server"],
       "env": {
         "MAKESLATES_API_KEY": "sk_live_your_key_here"
       }
@@ -41,7 +41,7 @@ Add to `~/.claude/claude_desktop_config.json`:
   "mcpServers": {
     "makeslates": {
       "command": "npx",
-      "args": ["-y", "@makeslates/mcp-server"],
+      "args": ["-y", "makeslates-mcp-server"],
       "env": {
         "MAKESLATES_API_KEY": "sk_live_your_key_here"
       }
@@ -59,7 +59,7 @@ Add to your Claude Desktop config:
   "mcpServers": {
     "makeslates": {
       "command": "npx",
-      "args": ["-y", "@makeslates/mcp-server"],
+      "args": ["-y", "makeslates-mcp-server"],
       "env": {
         "MAKESLATES_API_KEY": "sk_live_your_key_here"
       }
