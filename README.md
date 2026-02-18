@@ -144,7 +144,7 @@ create_presentation_with_slides({
 
 - **Website**: [makeslates.com](https://makeslates.com)
 - **Documentation**: [makeslates.com/docs](https://makeslates.com/docs)
-- **Issues**: [GitHub Issues](https://github.com/makeslates/mcp-server/issues)
+- **Issues**: [GitHub Issues](https://github.com/offscriptpontus/makeslates-mcp-server/issues)
 
 ## License
 

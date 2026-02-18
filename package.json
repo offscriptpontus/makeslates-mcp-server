@@ -40,10 +40,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/makeslates/mcp-server.git"
+    "url": "https://github.com/offscriptpontus/makeslates-mcp-server.git"
   },
   "homepage": "https://makeslates.com",
   "bugs": {
-    "url": "https://github.com/makeslates/mcp-server/issues"
+    "url": "https://github.com/offscriptpontus/makeslates-mcp-server/issues"
   }
 }
