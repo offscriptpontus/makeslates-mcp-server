@@ -1,0 +1,15 @@
+{
+  "name": "makeslates",
+  "displayName": "MakeSlates",
+  "author": "MakeSlates",
+  "description": "Create beautiful AI-powered slide presentations with natural language",
+  "version": "0.1.0",
+  "license": "MIT",
+  "keywords": [
+    "slides",
+    "presentations",
+    "ai",
+    "mcp",
+    "cursor"
+  ]
+}
